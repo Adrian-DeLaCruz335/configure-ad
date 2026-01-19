@@ -194,4 +194,3 @@ Now if I go to ADUC and navigate to _EMPLOYEES OU, I can see the newly created u
 <br />
 
 In the next section of the project, I will configure Group Policies for testing and simulating password resets, account lockouts, and user permissions for Help Desk practices. </p>
-https://github.com/DannySom/Group-Policy-Objects
