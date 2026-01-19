@@ -11,8 +11,8 @@ Active Directory is a software built and maintained by Microsoft that centrally 
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+-  Microsoft Azure (Virtual Machines/Compute)
+-  Remote Desktop
 - Active Directory Domain Services
 - PowerShell
 
